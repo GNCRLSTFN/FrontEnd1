@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    text-align: center;
+    padding: 5;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: rgb(202, 200, 200);
+    font-family: "Roboto";
+    
+}
+.Tit{
+    background-color: aquamarine;
+}
+.S{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+    background-color: rgb(118, 120, 230);
+}
+
+li{
+    text-align: left;
+    margin: 5px;
+}
+p{
+    text-align: center;
+    margin: 20px;
+}

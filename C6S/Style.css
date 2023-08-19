@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
+*{
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.Sub{
+    background-color: rgba(69, 2, 252, 0.5);
+    font-size: 30px;
+}
+
+.yop{
+
+    height: 50%;
+    width: 15%;
+    display: flex;
+    margin: auto;
+}
+ul{
+    background-color: rgb(165, 240, 240);
+    opacity: 0.5;
+
+}
+
+.Encabezado{
+    background-color: rgba(245, 178, 178, 0.5);
+    text-align: center;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif);
+    background-size: contain;
+
+}  
+a{
+
+    padding: 10px;
+    background-color: rgb(102, 66, 233);
+    margin: auto;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
